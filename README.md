@@ -19,16 +19,52 @@ The goal of this repository is to document my progress, consistency, and hands-o
 ---
 
 ## 🛠 Technologies (Learning & Practice)
+
 ### Frontend
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 
 ### Backend
-- PHP7
-- MySQL 
+- PHP 7
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
 
 ---
+
+## 📁 Structure Overview
+
+
+fullstack-journey/
+│
+├── frontend/
+│ ├── html-css/
+│ │ ├── landing-page/
+│ │ ├── login-form/
+│ │ └── portfolio-ui/
+│ │
+│ └── javascript/
+│ ├── basics/
+│ ├── dom-practice/
+│ └── mini-projects/
+│
+├── backend/
+│ ├── php-basics/
+│ ├── form-handling/
+│ ├── database-practice/
+│ └── mini-projects/
+│
+├── notes/
+│ ├── html-notes.md
+│ ├── css-notes.md
+│ ├── javascript-notes.md
+│ └── git-github-notes.md
+│
+└── README.md
 
 
 ---
@@ -46,10 +82,13 @@ Final and certification projects are maintained in **separate repositories**.
 
 ---
 
+## 📈 Progress
+This repository is updated regularly as I continue learning and building projects during my full stack development course.
+
+---
+
 ## 👤 Author
 **Waleeja Wahab**  
 Full Stack Development Student  
 Code Academy Nowshera – Batch 8
 
-
-## 📁 Structure Overview
